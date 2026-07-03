@@ -1,5 +1,5 @@
 # Fusioneir-Release
-This repository stores all public release assets of Fusioneir.
+This repository stores all public release assets of [Fusioneir](https://fuse.thusci.xyz).
 
 ## Directory Description
 - [Docs/](Docs/): Contains the latest official documents, including:
