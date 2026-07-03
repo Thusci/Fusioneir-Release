@@ -3,7 +3,7 @@
 本应用（Fusioneir）在开发过程中引用、集成了多款开源第三方库与框架，我们严格遵循对应开源许可协议约定履行开源义务，在此向所有开源项目开发者致以诚挚感谢。
 本声明为《Fusioneir EULA》配套文件，若开源组件许可条款与主EULA存在冲突，针对对应开源组件以本条许可证内容为准。
 
-> 特别说明：本产品当前处于 Open Beta 公开测试阶段，开源清单会随版本迭代持续更新，完整开源源码、许可证文件可查阅项目 GitHub：https://github.com/Thusci/Fusioneir-Release/
+> 特别说明：本产品当前处于 Open Beta 公开测试阶段，开源清单会随版本迭代持续更新，完整开源许可证文件可查阅项目 GitHub：https://github.com/Thusci/Fusioneir-Release/
 
 ## 一、Apache License 2.0 组件列表
 ### 1. Kotlin
